@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Gatis Krauksts
+I'm a Software Developer specialising in C#, passionate about technology deployment to solve real-world problems, aiming to innovate in the creation of software solutions that improve people’s lives.
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/gatiskrauksts/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<GatisKr>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=<GatisKr>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GatisKr/GatisKr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
